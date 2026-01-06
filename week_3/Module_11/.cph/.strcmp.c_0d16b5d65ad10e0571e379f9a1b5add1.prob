@@ -1,0 +1,1 @@
+{"name":"Local: strcmp","url":"d:\\Phitron\\Introduction to Programming Language\\week_3\\Module_11\\strcmp.c","tests":[{"id":1767492256790,"input":"abccc abcccc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Introduction to Programming Language\\week_3\\Module_11\\strcmp.c","group":"local","local":true}

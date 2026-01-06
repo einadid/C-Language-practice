@@ -1,0 +1,1 @@
+{"name":"Local: isitachallenge","url":"d:\\Phitron\\Introduction to Programming Language\\week2\\Module_8\\isitachallenge.c","tests":[{"id":1767040724715,"input":"5","output":"1 2 3 4 5 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Introduction to Programming Language\\week2\\Module_8\\isitachallenge.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: strcopy","url":"d:\\Phitron\\Introduction to Programming Language\\week_3\\Module_11\\strcopy.c","tests":[{"id":1767413520648,"input":"Orange Pple","output":"Pple Pple"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Introduction to Programming Language\\week_3\\Module_11\\strcopy.c","group":"local","local":true}
