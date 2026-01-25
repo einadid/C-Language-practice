@@ -1,0 +1,56 @@
+Input string: abacabacabac
+
+All frequency initialized to 0
+
+Character s[0] = a
+Index = a - 'a' = 0
+freq[0] increased to 1
+
+Character s[1] = b
+Index = b - 'a' = 1
+freq[1] increased to 1
+
+Character s[2] = a
+Index = a - 'a' = 0
+freq[0] increased to 2
+
+Character s[3] = c
+Index = c - 'a' = 2
+freq[2] increased to 1
+
+Character s[4] = a
+Index = a - 'a' = 0
+freq[0] increased to 3
+
+Character s[5] = b
+Index = b - 'a' = 1
+freq[1] increased to 2
+
+Character s[6] = a
+Index = a - 'a' = 0
+freq[0] increased to 4
+
+Character s[7] = c
+Index = c - 'a' = 2
+freq[2] increased to 2
+
+Character s[8] = a
+Index = a - 'a' = 0
+freq[0] increased to 5
+
+Character s[9] = b
+Index = b - 'a' = 1
+freq[1] increased to 3
+
+Character s[10] = a
+Index = a - 'a' = 0
+freq[0] increased to 6
+
+Character s[11] = c
+Index = c - 'a' = 2
+freq[2] increased to 3
+
+Final Result:
+a - 6
+b - 3
+c - 3
